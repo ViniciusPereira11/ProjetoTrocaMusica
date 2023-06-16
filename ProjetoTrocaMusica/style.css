@@ -1,0 +1,7 @@
+body{
+    height: 1000px;
+    background-image: linear-gradient(lightyellow, rgb(255, 101, 101));
+}
+canvas{
+    border-radius: 10px;
+}
